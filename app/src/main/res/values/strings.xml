@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CountDownTimerService</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="AddNewTimer">Add New Counter:</string>
+    <string name="Start">Start</string>
+    <string name="zeroTime">00:00</string>
+    <string name="CounterNameHint">Name</string>
+    <string name="HintCOunterNumbers">00:00:00</string>
+    <string name="YourTimers">Your Counters:</string>
+    <string name="DefaultCounterName">Name</string>
+</resources>
